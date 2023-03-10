@@ -1,4 +1,3 @@
-T
 
 Template Name: Dawood israr
 Template URL: 
